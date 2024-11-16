@@ -1,6 +1,17 @@
-<h1 align="center">Hi, I'm Damy J. Vega Leiva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front-End+developer"/></a>
+</p>
 
-## My Skills Include
+- 👋 Hi, I’m Damy J. Vega Leiva
+- 👨‍💻 A Front-End Developer
+- 🏠 I'm from Buenos Aires, Argentina
+- 📌 Living in Minnesota, United States
+- 💬 Talk to me about freelancing opportunities
+- 💼 Currently looking for a job in tech
+
+## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 
 <h4>Languages</h4>
 <span> 
