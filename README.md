@@ -1,9 +1,7 @@
 <h1 align="center">Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front-End+developer"/></a>
-</p>
-
-<img align='right' width='250' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90dGsxdW8xbGYyZHRzZzQyMDVlcmY2czk4aGtqMWJuYnc2NHo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.webp'/>
+</p>  
 
 - 👋 Hi, I’m Damy J. Vega Leiva
 - 👨‍💻 A Front-End Developer
